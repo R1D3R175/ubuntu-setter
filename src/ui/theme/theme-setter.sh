@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Setting Lock Screen Image... "
-"$working/src/ui/focalgdm3.sh $HOME/tmp/themes/Nordic_Wallpaper.jpg"
+"sudo $working/src/ui/focalgdm3.sh $HOME/tmp/themes/Nordic_Wallpaper.jpg"
 echo "OK."
 
 echo "Setting Desktop Wallpaper... "

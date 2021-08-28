@@ -174,7 +174,6 @@ echo "|*******************|"
 mkdir -p themes
 cd themes
 
-
 "$working/src/ui/theme/theme-downloader.sh"
 
 "$working/src/ui/theme/theme-setter.sh"
